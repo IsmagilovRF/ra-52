@@ -4,6 +4,7 @@ import ServicesList from "./ServicesList";
 import SearchExample from "./SearchExample";
 
 // Поисковая форма со списком сервисов и примером запроса
+// SearchBar.jsx
 
 const SearchBar = ({ links, example }) => {
   return (

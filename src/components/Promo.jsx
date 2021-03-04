@@ -1,6 +1,7 @@
 import React from "react";
 
 // Промо блок отдельного проекта
+// Promo.jsx
 
 const Promo = ({ item }) => {
   return (

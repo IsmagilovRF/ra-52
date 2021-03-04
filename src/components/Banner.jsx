@@ -1,6 +1,7 @@
 import React from "react";
 
 // Рекламный баннер
+// Banner.jsx
 
 const Banner = () => {
   return (

@@ -2,6 +2,7 @@ import React from "react";
 import Widget from "./Widget";
 
 // Блок "карта"
+// WidgetMap.jsx
 
 const WidgetMap = () => {
   return (

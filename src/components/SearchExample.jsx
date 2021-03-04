@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 // Пример поискового запроса
+// SearchExample.jsx
 
 const SearchExample = ({ example }) => {
   return (

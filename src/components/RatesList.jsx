@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import shortid from "shortid";
 
 // Список курсов валют
+// RatesList.jsx
 
 const RatesList = ({ rates }) => {
   return (

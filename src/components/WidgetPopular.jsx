@@ -4,6 +4,7 @@ import shortid from "shortid";
 import Widget from "./Widget";
 
 // Блок "посещаемое"
+// WidgetPopular.jsx
 
 const WidgetPopular = ({ popular }) => {
   return (

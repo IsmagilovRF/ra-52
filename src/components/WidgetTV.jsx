@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import Widget from "./Widget";
 
 // Блок "телепрограмма"
+// WidgetTV.jsx
 
 const WidgetTV = ({ tv }) => {
   return (

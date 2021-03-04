@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import Widget from "./Widget";
 
 // Блок "погода"
+// WidgetWeather.jsx
 
 const WidgetWeather = ({ weather, moment }) => {
   const current = moment.hour() < 6 ? weather.night : weather.day;

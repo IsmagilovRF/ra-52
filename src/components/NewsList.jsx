@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import shortid from "shortid";
 
 // Вывод список заданных новостей
+// NewsList.jsx
 
 const NewsList = ({ news }) => {
   return (

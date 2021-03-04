@@ -4,6 +4,7 @@ import shortid from "shortid";
 import Widget from "./Widget";
 
 // Блок "эфир"
+// WidgetRadio.jsx
 
 const WidgetRadio = ({ podcasts }) => {
   return (

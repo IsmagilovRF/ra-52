@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import shortid from "shortid";
 
 // Список поисковых сервисов
+// ServicesList.jsx
 
 const ServicesList = ({ links }) => {
   return (
